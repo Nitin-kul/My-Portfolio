@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "test",
+			"path": "."
+		},
+		{
+			"name": "server",
+			"path": "../Blender-Folio/server"
+		}
+	],
+	"settings": {}
+}
